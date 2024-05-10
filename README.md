@@ -1,6 +1,6 @@
 # messenger-app
 
-Frontend component of app created using Express, React, passport jwt, and bcrypt as part of the Odin Project curriculum: https://www.theodinproject.com/lessons/nodejs-messaging-app
+Frontend component of app created using Express, React, MongoDB/Mongoose, passport jwt, and bcrypt as part of the Odin Project curriculum: https://www.theodinproject.com/lessons/nodejs-messaging-app
 
 This project involved building a web app that allows users to send messages to each other.
 
