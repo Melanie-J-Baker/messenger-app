@@ -1,0 +1,21 @@
+.deleteUserForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    text-align: center;
+}
+
+.deleteUserText {
+    font-size: 2rem;
+    margin-bottom: 50px;
+}
+
+.deleteUserButton, .deleteBack {
+    font-weight: 500;
+    color: #646cff;
+    text-decoration: inherit;
+    padding: 10px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}

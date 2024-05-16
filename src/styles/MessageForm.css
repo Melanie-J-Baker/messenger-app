@@ -1,0 +1,19 @@
+.messageForm {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    margin-top: 20px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#msgText {
+    width: 250px;
+    height: 50px;
+    font-size: 1.2rem;
+    padding: 0px 10px;
+}
+
+.sendMsgBtn {
+    margin-left: 20px;
+}

@@ -1,0 +1,49 @@
+.conversationPageDiv {
+    width: 100vw;
+    margin-top: 110px;
+}
+
+#backToConversations {
+    padding: 0px 20px 20px 20px;
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+}
+
+.conversationHeading {
+    font-size: 2rem;
+    padding: 10px;
+}
+
+.messages {
+    overflow: scroll;
+    height: 60vh;
+}
+
+.text {
+    font-size: 1.3rem;
+}
+
+.msgDetails {
+    font-style: italic;
+}
+
+.user1, .user2 {
+    display: flex;
+    padding: 10px 20px;
+    margin: 30px 10px;
+    border-radius: 15px;
+}
+
+.user1 {
+    
+    flex-direction: column;
+    background-color: darkslategray;
+
+}
+
+.user2 {
+    flex-direction: column;
+    text-align: end;
+    align-items: end;
+    background-color: rgb(70, 124, 124);
+}
